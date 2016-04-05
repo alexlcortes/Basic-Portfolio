@@ -1,3 +1,5 @@
+
+
 ul {
 	list-style-type: none;
 }
@@ -6,34 +8,67 @@ header {
 	color: #ffffff;
 	background-color: #4aaaa5;
 	width: 325px;
+	height: 75px;
 	padding:25px;
 	margin: 25px;
+}
 
+#navbar {
+	color: #777777;
+	float: right;
 
 }
 
-.navbar {
-	width: 30px;
-	height: 20px;
-	margin: 25px;
-	color: #777777;
-	float: right;
+.about-me {
+	float: left;
+}
+
+.contact {
+	float: left;
+	padding-left: 10px;
+}
+
+.portfolio {
+	float: left;
+	padding-left: 10px;
 }
 
 .connectbox {
-	float: right;
-	top: 0;
-	margin: 20px 20px 20px 20px;
-	border-color: #dddddd;
-	border-width: 3px;
-
+	border: 1px solid;
+	border-color: #eeeeee;
+	float: left;
+	margin-left: 70%;
 }
 
+#profile-pic {
+	padding-right: 10px;
+	float: left;
+}
 
 h2 {
 	color: #4aaaa5;
 }
 
-footer {
+h4 {
+	text-align: center;
+	margin-left: auto;
+	color: #4aaaa5;
+}
 
+footer {
+	padding-top: 230px;
+}
+
+.gicon {
+	float: left;
+}
+
+.licon {
+	float: left;
+	padding-left: 10px;
+}
+
+.sicon {
+	float: left;
+	padding-left: 10px;
 }
