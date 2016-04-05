@@ -1,0 +1,39 @@
+ul {
+	list-style-type: none;
+}
+
+header {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	width: 325px;
+	padding:25px;
+	margin: 25px;
+
+
+}
+
+.navbar {
+	width: 30px;
+	height: 20px;
+	margin: 25px;
+	color: #777777;
+	float: right;
+}
+
+.connectbox {
+	float: right;
+	top: 0;
+	margin: 20px 20px 20px 20px;
+	border-color: #dddddd;
+	border-width: 3px;
+
+}
+
+
+h2 {
+	color: #4aaaa5;
+}
+
+footer {
+
+}
