@@ -53,6 +53,22 @@ header {
 	left: 200px;
 }
 
+.connectbox2 {
+	float: right;
+	background-color: #FFFFFF;
+	position: relative;
+	bottom: 303px;
+	left: 200px;
+}
+
+.connectbox3 {
+	float: right;
+	background-color: #FFFFFF;
+	position: relative;
+	bottom: 710px;
+	right: 140px;
+}
+
 h2 {
 	color: #4aaaa5;
 }
@@ -63,10 +79,18 @@ h4 {
 	left: 20px;
 }
 
+h5 {
+	text-align: center;
+	position: relative;
+
+}
+
 footer {
 	background-color: #666666;
 	color: #FFFFFF;
 	height: 45px;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
 }
 
 .gicon {
