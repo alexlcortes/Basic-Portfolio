@@ -110,3 +110,84 @@ footer {
 	position: relative;
 	right: 10px
 }
+
+
+@media screen and (max-width: 980px) {
+	header {
+		width: 100%;
+	}
+
+	#navbar {
+		width: 100%;
+	}
+
+	.container {
+		width: 100%;
+	}
+
+	.connectbox1 {
+		float: none;
+	}
+
+	.connectbox2 {
+		float: none;
+	}
+
+	.connectbox3 {
+		float: none;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	header {
+		width: 100%;
+	}
+
+	#navbar {
+		width: 100%;
+	}
+
+	.container {
+		width: 100%;
+	}
+
+
+	.connectbox1 {
+		float: none;
+	}
+
+	.connectbox2 {
+		float: none;
+	}
+
+	.connectbox3 {
+		float: none;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	header {
+		width: 100%;
+	}
+
+		#navbar {
+		width: 100%;
+	}
+
+	.container {
+		width: 100%;
+	}
+
+	
+	.connectbox1 {
+		float: none;
+	}
+
+	.connectbox2 {
+		float: none;
+	}
+
+	.connectbox3 {
+		float: none;
+	}
+}
